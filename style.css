@@ -1,4 +1,8 @@
-h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:aqua;
+body {
+    background: rgb(230, 224, 212);
+    height: 80vh;
+    margin: 0;
+    display: grid;
+    width: fill;
+    place-items: center;
 }
