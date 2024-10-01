@@ -6,3 +6,10 @@ body {
     width: fill;
     place-items: center;
 }
+
+box {
+    background: red;
+    width:100px;
+    height: 80px;
+    border-radius: 89px;
+}
